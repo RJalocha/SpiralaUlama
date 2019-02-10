@@ -10,8 +10,6 @@
 
 namespace SpiralaUlama.Properties
 {
-
-
     /// <summary>
     ///   Silnie typizowana klasa zasobów do wyszukiwania zlokalizowanych ciągów itd.
     /// </summary>
@@ -24,7 +22,6 @@ namespace SpiralaUlama.Properties
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources
     {
-
         private static global::System.Resources.ResourceManager resourceMan;
 
         private static global::System.Globalization.CultureInfo resourceCulture;
@@ -33,7 +30,6 @@ namespace SpiralaUlama.Properties
         internal Resources()
         {
         }
-
         /// <summary>
         ///   Zwraca buforowane wystąpienie składnika ResourceManager używane przez tę klasę.
         /// </summary>
